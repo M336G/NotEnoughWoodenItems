@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "notenoughwoodenitems",
+	"version": "${version}",
+	"name": "Not Enough Wooden Items",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"M336_",
+		"Susperior"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "LGPL-3.0 license",
+	"icon": "assets/notenoughwoodenitems/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"fr.m336.notenoughwoodenitems.NotEnoughWoodenItems"
+		],
+		"client": [
+			"fr.m336.notenoughwoodenitems.NotEnoughWoodenItemsClient"
+		],
+		"fabric-datagen": [
+			"fr.m336.notenoughwoodenitems.NotEnoughWoodenItemsDataGenerator"
+		]
+	},
+	"mixins": [
+		"notenoughwoodenitems.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
