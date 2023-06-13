@@ -3,14 +3,14 @@
 	"id": "notenoughwoodenitems",
 	"version": "${version}",
 	"name": "Not Enough Wooden Items",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Not Enough Wooden Items (or NEWI) is a Fabric mod that focus on adding more wooden tools and weapons to the game, which are better than the already existent ones. Currently, this mod adds 6 new tools and weapons tiers, in order from the least powerful to the most powerful:\n- Birch\n- Spruce\n- Jungle\n- Acacia\n- Dark Oak\n- Mangrove\n\nEach tier give more advantages than the one before\n\nWith all that, this mod can be a great addition to your survival adventures, and can help a lot for early game!",
 	"authors": [
 		"M336_",
 		"Susperior"
 	],
 	"contact": {
 		"homepage": "",
-		"sources": ""
+		"sources": "https://github.com/M336G/NotEnoughWoodenItems/"
 	},
 	"license": "LGPL-3.0 license",
 	"icon": "assets/notenoughwoodenitems/icon.png",

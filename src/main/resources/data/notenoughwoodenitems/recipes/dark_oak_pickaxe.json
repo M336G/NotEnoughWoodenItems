@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "###",
+    " X ",
+    " X "
+
+  ],
+  "result": {
+    "item": "notenoughwoodenitems:dark_oak_pickaxe"
+  }
+}
