@@ -9,6 +9,6 @@ Not Enough Wooden Items (or NEWI) is a Fabric mod that focus on adding more wood
 - Dark Oak
 - Mangrove
 
-Each tier give more advantages than the one before
+Each tier gives more advantages than the one before
 
 With all that, this mod can be a great addition to your survival adventures, and can help a lot for early game!
